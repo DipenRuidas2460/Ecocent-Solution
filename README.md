@@ -1,5 +1,7 @@
 # Ecocent-Solution
 
+To Start Application run:- npm start  
+
 Clone the Repository:
 
 bash
